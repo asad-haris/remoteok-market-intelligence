@@ -106,8 +106,9 @@ This ensures compliance with ethical scraping standards and Evoastra internship 
 
 ---
 
-## Project Structure
+## 📁 Project Structure
 
+```text
 remoteok-scraping-project/
 │
 ├── README.md                  # Project overview & documentation
@@ -118,21 +119,22 @@ remoteok-scraping-project/
 ├── src/                       # Source code
 │   ├── scraper.py             # Ethical web scraping logic
 │   ├── data_cleaner.py        # Data cleaning pipeline
-│   └── analyzer.py            # Data analysis & visualization code
+│   └── analyzer.py            # Data analysis & visualization
 │
 ├── data/
 │   └── cleaned/
 │       └── remoteok_jobs_cleaned.csv   # Final cleaned dataset
 │
-├── visualizations/            # Generated plots
+├── visualizations/
 │   ├── top_skills.png
 │   ├── job_type_distribution.png
 │   ├── top_job_titles.png
 │   └── skill_frequency_comparison.png
 │
 └── reports/
-    └── analysis_report.pdf    # Final project report
-    └── analysis_report.md     # Technical methodology
+    ├── analysis_report.pdf    # Final project report
+    └── methodology.md         # Technical methodology
+
 
 
 ---
@@ -162,4 +164,5 @@ These limitations are clearly acknowledged in the analysis and reporting.
 ---
 
 **Evoastra Ventures (OPC) Pvt Ltd**  
+
 *Data Science Internship – Mini Project* 
