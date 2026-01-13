@@ -106,7 +106,36 @@ This ensures compliance with ethical scraping standards and Evoastra internship 
 
 ---
 
+## 👥 Team Contribution
+- **Web Scraping:** Scraping Team  
+- **Data Cleaning:** Data Cleaning Team  
+- **Analysis & Visualization:** Analysis Team  
+- **Documentation & Coordination:** Documentation Team  
+
+---
+
+## 📝 Compliance Statement
+This project strictly follows ethical web scraping practices and Evoastra internship guidelines.  
+No proprietary, restricted, or private data was accessed or redistributed.
+
+---
+
+## 📉 Data Limitations & Biases
+The dataset was scraped exclusively from **Remote OK**, and therefore:
+- Does not represent the entire global remote job market
+- Reflects only the platform’s audience and job categories
+- Is subject to time-based and platform-specific biases
+
+These limitations are clearly acknowledged in the analysis and reporting.
+
+---
+
+**Evoastra Ventures (OPC) Pvt Ltd**  
+
+*Data Science Internship – Mini Project* 
 ## 📁 Project Structure
+
+---
 
 ```text
 remoteok-scraping-project/
@@ -136,33 +165,3 @@ remoteok-scraping-project/
     └── methodology.md         # Technical methodology
 
 
-
----
-
-## 👥 Team Contribution
-- **Web Scraping:** Scraping Team  
-- **Data Cleaning:** Data Cleaning Team  
-- **Analysis & Visualization:** Analysis Team  
-- **Documentation & Coordination:** Documentation Team  
-
----
-
-## 📝 Compliance Statement
-This project strictly follows ethical web scraping practices and Evoastra internship guidelines.  
-No proprietary, restricted, or private data was accessed or redistributed.
-
----
-
-## 📉 Data Limitations & Biases
-The dataset was scraped exclusively from **Remote OK**, and therefore:
-- Does not represent the entire global remote job market
-- Reflects only the platform’s audience and job categories
-- Is subject to time-based and platform-specific biases
-
-These limitations are clearly acknowledged in the analysis and reporting.
-
----
-
-**Evoastra Ventures (OPC) Pvt Ltd**  
-
-*Data Science Internship – Mini Project* 
