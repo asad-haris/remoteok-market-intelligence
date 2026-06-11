@@ -125,7 +125,9 @@ jupyter notebook notebooks/analysis.ipynb
 ---
  
 ## Screenshots
- 
+
+<img width="2967" height="1773" alt="top_skills" src="https://github.com/user-attachments/assets/c655ac74-ab1a-425a-ba98-0d9728187a43" />
+
 <!-- Add 2-3 screenshots of your visualizations here -->
 <!-- Example: -->
 <!-- ![Top Skills](visualizations/top_skills.png) -->
